@@ -1,0 +1,76 @@
+# 🎮 Code & Play – Learn by Doing
+
+I don’t learn by just **watching tutorials** or **taking notes**.
+I learn by **getting my hands dirty**.
+
+Most docs and repos feel like gibberish until I **experiment** with them.
+So here’s my personal collection of **gamified, visual, hands-on websites** where you can learn coding like playing a game.
+
+---
+
+## 🌀 Git
+
+* [Learn Git Branching](https://learngitbranching.js.org/) – Visual & interactive Git playground.
+* [Oh My Git!](https://ohmygit.org/) – An open-source card game about learning Git.
+
+---
+
+## 🐍 Python
+
+* [CheckiO](https://checkio.org/) – Solve fun puzzles to level up your Python.
+* [CodeCombat](https://codecombat.com/play) – Write Python to control your hero through dungeons.
+* [Codingame](https://www.codingame.com/start) – Solve challenges with Python in a gaming environment.
+
+---
+
+## 🐼 Pandas (Data Science)
+
+* [Pandas Tutor](https://pandastutor.com/) – See exactly what your DataFrame is doing step by step.
+* [DataCamp – Pandas Exercises](https://www.datacamp.com/courses/pandas-foundations) – Interactive pandas problems.
+* [Kaggle Pandas Playground](https://www.kaggle.com/learn/pandas) – Hands-on with real datasets.
+
+---
+
+## ⚙️ C++
+
+* [LearnCpp Step-by-Step](https://www.learncpp.com/) – Not exactly gamified, but one of the best structured C++ guides.
+* [Codingame](https://www.codingame.com/start) – Solve puzzles and compete with others in C++.
+* [Exercism – C++ Track](https://exercism.org/tracks/cpp) – Gamified practice with mentoring.
+
+---
+
+## 🌐 JavaScript
+
+* [JS Hero](https://www.jshero.net/en/home.html) – Learn JavaScript through missions.
+* [Codewars](https://www.codewars.com/) – Level up your skills by solving katas.
+* [Flexbox Froggy](https://flexboxfroggy.com/) – Technically CSS, but a must-play for layout logic.
+
+---
+
+## 🎨 CSS
+
+* [Flexbox Froggy](https://flexboxfroggy.com/) – Help Froggy get to the lilypad using CSS flexbox.
+* [Grid Garden](https://cssgridgarden.com/) – Water your garden with CSS grid.
+* [CSS Diner](https://flukeout.github.io/) – Play with CSS selectors.
+
+---
+
+## 🌈 TailwindCSS
+
+* [Tailwind Play](https://play.tailwindcss.com/) – Interactive playground to try Tailwind instantly.
+* [Tailwind CSS Game](https://tailwindcssgame.com/) – Learn Tailwind utilities through challenges.
+* [Frontend Mentor](https://www.frontendmentor.io/challenges?tech=tailwind) – Real-world challenges with Tailwind.
+
+---
+
+## 🏆 Extra Game-like Platforms
+
+* [Exercism](https://exercism.org/) – Practice with real mentors.
+* [Codingame](https://www.codingame.com/start) – Solve problems while playing games.
+* [Codewars](https://www.codewars.com/) – Sharpen your skills with ranked challenges.
+
+---
+
+✨ Instead of reading endless docs, just **play around**.
+The more you break things, the more you’ll learn 🚀.
+
